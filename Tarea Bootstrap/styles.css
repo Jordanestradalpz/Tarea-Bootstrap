@@ -1,0 +1,22 @@
+html{
+    height: 100%;
+    background-color: #ffffff;
+}
+
+body{
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #ffffff;
+}
+
+.carousel-indicators {
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
